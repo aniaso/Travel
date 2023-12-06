@@ -31,6 +31,7 @@
   }
 })();
 
+
 // Scroll to anchors
 (function () {
   const smoothScroll = function (targetEl, duration) {
